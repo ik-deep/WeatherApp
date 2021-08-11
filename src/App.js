@@ -5,7 +5,7 @@ import Temp from "./Temp"
 
 function App() {
 
-   const string = "hello world"
+  
   return (
     <div className="App">
       <Temp/>
