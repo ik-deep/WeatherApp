@@ -50,7 +50,7 @@ const WeatherData = ({
           <i className={`wi ${weatherState}`}></i>
           <i className={`wi ${weatherState}`}></i>
         </div>
-
+        
         <div className="weatherInfo">
           <div className="temperature">
             <span>{temp}&deg;</span>
@@ -65,7 +65,7 @@ const WeatherData = ({
         </div>
 
         <div className="date"> {new Date().toLocaleString()} </div>
-
+      
         {/* our 4column section  */}
         <div className="extra-temp">
           <div className="temp-info-minmax">
