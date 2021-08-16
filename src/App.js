@@ -5,7 +5,7 @@ import Temp from "./Temp"
 
 function App() {
 
-  
+   
   return (
     <div className="App">
       <Temp/>
