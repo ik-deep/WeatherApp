@@ -63,8 +63,6 @@ const getWeatherInfo = async () => {
                </button>
              </div>
            </div>
-     
-           {/* our temp card  */}
            <WeatherData {...tempInfo} />
          </>
        );
