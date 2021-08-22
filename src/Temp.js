@@ -1,8 +1,5 @@
 // //39984a5b5194233335e567927c183d00
 // api.openweathermap.org/data/2.5/weather?q=delhi&appid=39984a5b5194233335e567927c183d00
-
-
-
 import React,{ useState, useEffect} from "react";
 import "./style.css";
 import WeatherData from "./WeatherData";
